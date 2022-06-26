@@ -28,3 +28,13 @@ Junior back-end developer
     <a href="https://www.instagram.com/tarokh.yaghoubi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Tarokh-Yaghoubi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/tarokh-yaghoubi-640249229" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  
+  
+
+## Biography 
+
+# a pssionate junior developer interested in many things such as web development 
+# systems and linux ! i stared my career two years ago but it took me two years to be in
+# such level ( because i self-studied ) 
+
+# Practice makes perfect :) # Python # Javascript # Linux # Bash
