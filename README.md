@@ -32,10 +32,10 @@ Junior back-end developer
   
 # Biography 
 
-<h4>
+<h4 style="color:purple ;">
 a pssionate junior developer interested in many things such as web development 
 systems and linux ! i stared my career two years ago but it took me two years to be in
 such level ( because i self-studied ) 
 
-Practice makes perfect :) # Python # Javascript # Linux # Bash
+Practice makes perfect :) <br> # Python # Javascript # Linux # Bash
 </h4>
