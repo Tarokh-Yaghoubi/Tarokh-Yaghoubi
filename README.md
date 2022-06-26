@@ -37,5 +37,6 @@ a pssionate junior developer interested in many things such as web development
 systems and linux ! i stared my career two years ago but it took me two years to be in
 such level ( because i self-studied ) 
 
-Practice makes perfect :) <br> # Python # Javascript # Linux # Bash
-</h4>
+Practice makes perfect :) </h4><br>
+
+<h6># Python # Javascript # Linux # Bash</h6>
