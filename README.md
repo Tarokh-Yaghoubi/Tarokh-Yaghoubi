@@ -33,7 +33,7 @@ Junior back-end developer
 ## Biography 
 
 <h4>
-A passionate junior developer interested in many things such as web development 
+A passionate junior developer interested in many things such as web development ,  
 systems and linux ! i stared my career two years ago but it took me two years to be in
 such level ( because i self-studied ) 
 
