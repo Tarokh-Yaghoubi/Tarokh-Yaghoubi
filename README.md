@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Tarokh yaghoubi (Jacob)
+This is Tarokh Yaghoubi - known as -> (Jacob)
 ===============================
 
 Junior back-end developer
