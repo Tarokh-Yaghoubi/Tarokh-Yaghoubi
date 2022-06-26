@@ -30,8 +30,8 @@ Junior back-end developer
   <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/tarokh-yaghoubi-640249229" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
   
   
-# Biography 
-
+## Biography 
+<br>
 <h4 style="color:purple ;">
 a pssionate junior developer interested in many things such as web development 
 systems and linux ! i stared my career two years ago but it took me two years to be in
