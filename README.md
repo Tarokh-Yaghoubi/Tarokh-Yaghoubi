@@ -11,7 +11,7 @@ Junior back-end developer
                 /></a><a href="https://www.github.com/Tarokh-Yaghoubi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Tarokh-Yaghoubi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
-### Skills
+### Skills 📖
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -22,7 +22,7 @@ Junior back-end developer
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-### Socials
+### Socials 🔖
                   
 <p align="left">
     <a href="https://www.instagram.com/tarokh.yaghoubi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -30,7 +30,7 @@ Junior back-end developer
   <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/tarokh-yaghoubi-640249229" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
   
   
-## Biography 
+## Biography 📘 
 
 <h4>
 A passionate junior developer interested in many things such as web development ,  
