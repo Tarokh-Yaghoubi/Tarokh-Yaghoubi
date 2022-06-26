@@ -31,10 +31,10 @@ Junior back-end developer
   
   
 
-## Biography 
+# Biography 
 
-# a pssionate junior developer interested in many things such as web development 
-# systems and linux ! i stared my career two years ago but it took me two years to be in
-# such level ( because i self-studied ) 
+### a pssionate junior developer interested in many things such as web development 
+### systems and linux ! i stared my career two years ago but it took me two years to be in
+### such level ( because i self-studied ) 
 
-# Practice makes perfect :) # Python # Javascript # Linux # Bash
+### Practice makes perfect :) # Python # Javascript # Linux # Bash
