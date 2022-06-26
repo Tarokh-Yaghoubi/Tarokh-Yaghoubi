@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 This is Tarokh yaghoubi (Jacob)
 ===============================
 
 Junior back-end developer
 -----------------------------
 
-<a href="https://www.twitter.com/Amirhos99071956" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Amirhos99071956?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/Amirhosein-D" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Amirhosein-D?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/TarokhY?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/Tarokh-Yaghoubi" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/Tarokh-Yaghoubi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 
