@@ -33,10 +33,9 @@ Junior back-end developer
 ## Biography 📘 
 
 <h4>
-A passionate junior developer interested in many things such as web development ,  
-systems and linux ! i stared my career two years ago but it took me two years to be in
-such level ( because i self-studied ) 
-</h4><h5>Practice makes perfect :) </h5>
+a passionate python developer , interested in blockchain , free programming , artificial inteligence and all about computers and machines ! 
+currently i'm focusing on Python and the frameworks such as (Flask and Django) , HTML and CSS . in next up-coming months i'll be focusing on Javascript and Certainly on what the junk is blockchain and how it is going to be more effective in world-wide tech and life !
+
 
 
 <h6># Python # Javascript # Linux # Bash</h6>
