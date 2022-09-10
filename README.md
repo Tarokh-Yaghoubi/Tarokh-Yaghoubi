@@ -37,8 +37,8 @@ Junior back-end developer
 ## Biography 📘 
 
 <h4>
-a passionate python developer , interested in blockchain , free programming , artificial inteligence and all about computers and machines ! 
-currently i'm focusing on Python and the frameworks such as (Flask and Django) , HTML and CSS . in next up-coming months i'll be focusing on Javascript and Certainly on what the junk is blockchain and how it is going to be more effective in world-wide tech and life !
+C development apprentice , Junior Python developer .
+Network-plus , CCNA , LPIC1 , LPIC2
 
 
 
