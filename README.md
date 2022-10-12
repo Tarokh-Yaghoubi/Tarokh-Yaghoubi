@@ -46,4 +46,4 @@ CompTIA NetworkPlus , LPIC1
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h5> - Python - C - C++ - Linux - Bash </h5>
+<h5> (- Python - C - C++ - Linux - Bash -) </h5>
