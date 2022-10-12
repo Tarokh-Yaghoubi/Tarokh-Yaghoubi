@@ -39,6 +39,11 @@ Junior back-end developer
 C development apprentice , Junior Python developer .
 CompTIA NetworkPlus , LPIC1
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h6># Python # Javascript # Linux # Bash</h6>
