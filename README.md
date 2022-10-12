@@ -10,9 +10,7 @@ C Programming apprentice - Embedded systems
                   src="https://img.shields.io/twitter/follow/TarokhY?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Tarokh-Yaghoubi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Tarokh-Yaghoubi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tarokh-jacob-yaghoubi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/tarokh-jacob-yaghoubi?trk=profile-badge">My LinkedIn</a></div>
+               
               
                   
 ### Skills 📖
