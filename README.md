@@ -3,7 +3,7 @@
 This is Tarokh Yaghoubi - known as -> (Jacob)
 ===============================
 
-Junior back-end developer
+C Programming apprentice - Embedded systems
 -----------------------------
 
 <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img
