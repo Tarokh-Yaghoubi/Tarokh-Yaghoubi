@@ -51,6 +51,7 @@ CompTIA NetworkPlus , LPIC1
 <b>My GitHub Stats</b>
 
 <a href="#">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h5> (- Python - C - C++ - Linux - Bash -) </h5>
