@@ -3,7 +3,7 @@
 This is Tarokh Yaghoubi - known as -> (Jacob)
 ===============================
 
-C Programming apprentice - Embedded systems
+C Programming apprentice - Embedded & Systems Development
 -----------------------------
 
 <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img
@@ -17,6 +17,7 @@ C Programming apprentice - Embedded systems
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/csharp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C-sharp" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -30,6 +31,7 @@ C Programming apprentice - Embedded systems
   <br />
 <a href="https://www.geeksforgeeks.org/c-programming-language/?ref=ghm"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </a>
+
 </p>
 
 ### Socials 🔖
@@ -43,8 +45,16 @@ C Programming apprentice - Embedded systems
 ## Biography 📘 
 
 <h4>
-C development apprentice , Junior Python developer .
-CompTIA NetworkPlus , LPIC1
+Hello world , my name's tarokh , some mates call me Jacob . I was made in June 2004 .
+  
+I'm Passionate about Systems and Embedded programming , I love almost everything in IT , linux , networking , raspberries , development and so on .
+
+I dream of DevOps but it's just a bitter pill to swallow at the time !
+  
+- Passionate about learning 
+- Dream Chaser 
+- Flexible to every kind of environment
+</h4>
 
 ### Badges
 
@@ -52,4 +62,4 @@ CompTIA NetworkPlus , LPIC1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&langs_count=8)](https://github.com/Tarokh-Yaghoubi)
 
-<h5> (- Python - C - C++ - Linux - Bash -) </h5>
+<h5> ( Python - C - C++ - Linux - Bash - Raspberry ) </h5>
