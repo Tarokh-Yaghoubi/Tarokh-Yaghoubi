@@ -60,6 +60,6 @@ I dream of DevOps but it's just a bitter pill to swallow at the time !
 
 <b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&langs_count=[5, 8])](https://github.com/Tarokh-Yaghoubi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&langs_count=7)](https://github.com/Tarokh-Yaghoubi)
 
 <h5> ( Python - C - C++ - Linux - Bash - Raspberry ) </h5>
