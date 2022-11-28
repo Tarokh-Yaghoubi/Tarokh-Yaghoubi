@@ -47,7 +47,7 @@ C Programming apprentice - Embedded & Systems Development
 <h4>
 Hello world , my name's tarokh , some mates call me Jacob . I was made in June 2004 .
   
-I'm Passionate about Systems and Embedded programming , I love almost everything in IT , linux , networking , raspberries , development and so on .
+I'm Passionate about Systems and Embedded programming , I love almost everything in IT , linux , networking , microcomputers , development and so on .
 
 I dream of DevOps but it's just a bitter pill to swallow at the time !
   
