@@ -26,6 +26,8 @@ C Programming apprentice - Embedded & Systems Development
 <a href="https://lpi.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  /></a> 
 <a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a> 
   <br />
+  <a href="https://debian.org"><img src="https://img.shields.io/badge/RHEL-A81D33?style=for-the-badge&logo=redhat&logoColor=white" /></a> 
+  <br />
 <a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <br />
