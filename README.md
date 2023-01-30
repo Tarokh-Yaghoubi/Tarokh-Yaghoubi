@@ -3,7 +3,7 @@
 This is Tarokh Yaghoubi - known as -> (Jacob)
 ===============================
 
-C Programming apprentice - Embedded & Systems Programming
+C Programming - Embedded Linux & Systems Programming
 -----------------------------
 
 <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img
@@ -56,4 +56,4 @@ C Programming apprentice - Embedded & Systems Programming
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&langs_count=7)](https://github.com/Tarokh-Yaghoubi)
 
-<h5> ( Python - C - Linux - Bash - Minicomputers ) </h5>
+<h5> ( Python - C - Linux - Bash - Embedded Linux ) </h5>
