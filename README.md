@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Tarokh Yaghoubi - (Jacob)
+This is Tarokh Yaghoubi - Jacob
 ===============================
 
 C Programming - Embedded Linux & Systems Programming
