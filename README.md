@@ -50,6 +50,12 @@ C Programming - Embedded Linux & Systems Programming
 - Flexible to every kind of environment
 </h4>
 
+### My GitHub Stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarokh-Yaghoubi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&hide_progress=true&theme=radical)](https://github.com/Tarokh-Yaghoubi/github-readme-stats)
+
 ### Badges
 
 <h5> ( Python - C - Linux - Bash - Embedded Linux ) </h5>
