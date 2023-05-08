@@ -52,8 +52,4 @@ C Programming - Embedded Linux & Systems Programming
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=dark&langs_count=7)](https://github.com/Tarokh-Yaghoubi)
-
 <h5> ( Python - C - Linux - Bash - Embedded Linux ) </h5>
