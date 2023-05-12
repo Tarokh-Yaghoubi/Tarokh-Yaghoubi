@@ -3,7 +3,7 @@
 This is Tarokh Yaghoubi - Jacob
 ===============================
 
-C Programming - Embedded Linux & Systems Programming
+Linux - Bash - C programming
 -----------------------------
 
 <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img
