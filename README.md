@@ -1,55 +1,112 @@
-### Hi there 👋
+<h2 align='center'> <i>Hello, Mates !</h2>  
 
-This is Tarokh Yaghoubi - Jacob
-===============================
+<img align="right" src="https://github.com/Tarokh-Yaghoubi/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
-Linux - Bash - C programming
------------------------------
+_Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full Stack)](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Kampd](https://www.linkedin.com/company/knowledge-amplified/). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
 
-<a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/TarokhY?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/Tarokh-Yaghoubi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Tarokh-Yaghoubi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-               
-              
-                  
-### Skills 📖
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://docs.microsoft.com/en-us/csharp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C-plus-plus" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" /></a>
-  <br />
-<a href="https://lpi.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  /></a> 
-<a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a> 
-  <br />
-  <a href="https://debian.org"><img src="https://img.shields.io/badge/RHEL-A81D33?style=for-the-badge&logo=redhat&logoColor=white" /></a> 
-  <br />
-<a href="https://www.geeksforgeeks.org/c-programming-language/?ref=ghm"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 </p>
 
-### Socials 🔖
-                  
-<p align="left">
-    <a href="https://www.instagram.com/tarokh.yaghoubi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/Tarokh-Yaghoubi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/TarokhY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/tarokhyaghoubi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-  
-  
-## Biography 📘 
+<table width="100" align='center'>
+<tr>
+ <td align='center'>
+    <b>Currently learning</b>
+ </td>
+ <td align='center' width="60">
+     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+ </td>
+</tr>
+</table>
 
-<h4>
+</br>
 
-  A passionate C programmer trying to get-deep in the world of software and embedded systems , i love embedded linux , system programming and so on . 
-  currently i have focused on C programming and Linux .
-  
-- Passionate about learning 
-- Dream Chaser 
-- Flexible to every kind of environment
-</h4>
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
-### Badges
+</br>
 
-<h5> ( Python - C - Linux - Bash - Embedded Linux ) </h5>
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+    </td>
+</tr>
+</table>
+
+<h2 align='center'><i>Top Repos</i></h2>
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
+</a>
+</p>
