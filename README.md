@@ -95,10 +95,10 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </td>
 </tr>
 </table>
@@ -106,7 +106,7 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
+<a href="https://github.com/Tarokh-Yaghoubi/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarokh-Yaghoubi&repo=C&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
