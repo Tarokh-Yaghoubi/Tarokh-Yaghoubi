@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Mates !</h2>  
 
-<img align="right" src="https://github.com/Tarokh-Yaghoubi/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tarokh-Yaghoubi&theme=blue-green"/> 
 
 _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full Stack)](https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196/) at [Kampd](https://www.linkedin.com/company/knowledge-amplified/). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
@@ -9,13 +9,13 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+        <a href="https://twitter.com/TarokhY"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://www.instagram.com/tarokh.yaghoubi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://www.linkedin.com/in/tarokhyaghoubi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
 </tr>
 </table>
@@ -28,21 +28,19 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
     <b>Currently learning</b>
  </td>
  <td align='center' width="60">
-     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55">
  </td>
 </tr>
 </table>
 
 </br>
 
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i><a href="https://github.com/Tarokh-Yaghoubi">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+<a href="https://github.com/Tarokh-Yaghoubi">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarokh-Yaghoubi&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
+
 </p>
 
 </br>
@@ -52,53 +50,53 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="80">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="80">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="80">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80">
     </td>
     <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="80">
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="64">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="80">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="80">
     </td>
-    <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="80">
     </td>
 </tr>
 </table>
@@ -107,6 +105,7 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
 
 <p align="center">
 <a href="https://github.com/Tarokh-Yaghoubi/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarokh-Yaghoubi&repo=C&theme=vue-dark&hide_border=true" height="185">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Tarokh-Yaghoubi&repo=C&theme=vue-dark&hide_border=true" height="185">
 </a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=blue-green" />
 </p>
