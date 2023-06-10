@@ -108,5 +108,5 @@ _Hello there this is **Ashutosh Dwivedi**. Working as [Product Engineer - (Full 
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tarokh-Yaghoubi&repo=C&theme=vue-dark&hide_border=true" height="185">
 </a>
  <br /><br />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=blue-green" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=blue-green" />
 </p>
