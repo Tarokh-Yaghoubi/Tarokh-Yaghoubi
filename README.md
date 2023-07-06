@@ -36,15 +36,15 @@ _Hello there this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a 
 </table>
 
 </br>
-
+<!--
 <h2 align='center'><i><a href="https://github.com/Tarokh-Yaghoubi">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Tarokh-Yaghoubi">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarokh-Yaghoubi&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
+-->
 
-</p>
-
+</p> 
 </br>
 
 <h2 align='center'><i>Languages and Tools</i></h2>
