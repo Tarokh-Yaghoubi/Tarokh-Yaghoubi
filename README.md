@@ -14,7 +14,7 @@ _Hello there this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a 
         <a href="https://twitter.com/TarokhY"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/tarokh.yaghoubi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://www.instagram.com/cyber.creature/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/tarokhyaghoubi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
