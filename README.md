@@ -1,6 +1,7 @@
 <h2 align='center'> <i>Hello, Mates !</h2>  
 
-<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tarokh-Yaghoubi&theme=blue-green"/> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarokh-Yaghoubi&show_icons=true&theme=transparent)
 
  
  
