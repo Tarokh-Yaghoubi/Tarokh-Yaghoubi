@@ -1,11 +1,7 @@
-<h2 align='center'> <i>Hello, Mates !</h2>  
+<h2 align='center'> <i>Hello, Mates !</h2>   
 
+___Hey There, this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a [System Programmer - (C programmer)](https://www.linkedin.com/in/tarokhyaghoubi/) at [Eniac-Tech](https://www.linkedin.com/company/eniac-tech/mycompany/). I started researching on programming languages and so many other things in IT and Software programming since four years a go . I am passionate about Linux, System programming, Embedded Devices and so on ! .___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarokh-Yaghoubi&show_icons=true&theme=transparent)
-
- 
- 
-_Hello there this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a [System Programmer - (C programmer)](https://www.linkedin.com/in/tarokhyaghoubi/) at [Eniac-Tech](https://www.linkedin.com/company/eniac-tech/mycompany/). I started researching on programming languages and so many other things in IT and Software programming since four years a go . I am passionate about Linux, System programming, Embedded Devices and so on ! ._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
