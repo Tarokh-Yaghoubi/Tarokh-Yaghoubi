@@ -27,7 +27,7 @@ ___Hey There, this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a
     <b>Currently learning</b>
  </td>
  <td align='center' width="60">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55">
  </td>
 </tr>
 </table>
