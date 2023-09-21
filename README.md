@@ -72,7 +72,7 @@ ___Hey There, this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="64">
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="80">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="80">
@@ -95,7 +95,7 @@ ___Hey There, this is **Tarokh Yaghoubi**. I am 19 , Currently i am Working as a
         <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"  width="80">
     </td>
 </tr>
 </table>
