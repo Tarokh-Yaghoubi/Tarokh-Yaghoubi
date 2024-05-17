@@ -8,10 +8,7 @@ ___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Work
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/TarokhY"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/cyber.creature/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://twitter.com/TarokhTheCraw"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/tarokhyaghoubi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
