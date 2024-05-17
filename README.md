@@ -69,7 +69,7 @@ ___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Work
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="64">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64">
     </td>
      <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80">
