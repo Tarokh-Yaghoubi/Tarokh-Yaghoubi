@@ -1,6 +1,6 @@
-<h2 align='center'> <i>Hello, Mates !</h2>   
+<h2 align='center'> <i>Hello, World</h2>   
 
-___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Working as a [System Programmer - (C programmer)](https://www.linkedin.com/in/tarokhyaghoubi/) at [Eniac-Tech](https://www.linkedin.com/company/eniac-tech/mycompany/). I started researching on programming languages and so many other things in IT and Software programming since i was 15 . I am passionate about Linux, System programming, Embedded Devices and so on ! .___
+___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Working as a [System Programmer - (C programmer)](https://www.linkedin.com/in/tarokhyaghoubi/) at [Eniac-Tech]. I started researching about programming languages and so many other things in IT and Software Development since i was 15. I am passionate about Linux, System programming, Embedded Devices and so on ! .
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -27,7 +27,7 @@ ___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Work
     <b>Currently learning</b>
  </td>
  <td align='center' width="60">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55">
  </td>
 </tr>
 </table>
