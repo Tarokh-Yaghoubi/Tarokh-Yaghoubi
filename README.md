@@ -1,6 +1,11 @@
 <h2 align='center'> <i>Hello, World</h2>   
 
-___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Working as a [System Programmer - (C programmer)](https://www.linkedin.com/in/tarokhyaghoubi/) at [Eniac-Tech]. I started researching about programming languages and so many other things in IT and Software Development since i was 15. I am passionate about Linux, System programming, Embedded Devices and so on ! .
+ $ Hey There, **Tarokh's** here...
+<br />
+<br />
+<p align="center">
+ <img align="center" src="https://gh-readme-profile.vercel.app/api?username=Tarokh-Yaghoubi&theme=neon" />
+</p>
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -30,6 +35,7 @@ ___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Work
 </table>
 
 </br>
+
 <!--
 <h2 align='center'><i><a href="https://github.com/Tarokh-Yaghoubi">Activity Graph 📈</i></h2>
 <p align="center">
@@ -80,7 +86,7 @@ ___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Work
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="80">
     </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="80">
@@ -97,12 +103,8 @@ ___Hey There, this is **Tarokh Yaghoubi** (Jacob). I am 19 , Currently i am Work
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
-
 <p align="center">
-<a href="https://github.com/Tarokh-Yaghoubi/C">
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Tarokh-Yaghoubi&repo=C&theme=vue-dark&hide_border=true" height="185">
-</a>
- <br /><br />
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=blue-green" />
+ <br />
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tarokh-Yaghoubi&theme=chartreuse-dark" />
 </p>
+
