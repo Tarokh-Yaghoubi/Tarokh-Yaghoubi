@@ -13,7 +13,7 @@
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/TarokhTheCraw"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+        <a href="https://www.reddit.com/user/tarokh_0"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reddit.svg" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/tarokhyaghoubi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
