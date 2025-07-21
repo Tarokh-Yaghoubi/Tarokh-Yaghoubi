@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, World</h2>   
 
- $ Hey There, **Tarokh's** here...
+ $ Hello There 👾, This is **Tarokh / Jacob**, a self-taught C programmer with 3 years of experience in developing C applications for POS devices. I am eager to learn new things and also I am crazy about Embedded Systems, Linux programming, Bare-Metal programming and so on!
 <br />
 <br />
 <p align="center">
