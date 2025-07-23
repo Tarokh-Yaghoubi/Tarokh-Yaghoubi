@@ -72,7 +72,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="80">
     </td>
      <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80">
@@ -89,7 +89,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64"> 
     </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="80">
