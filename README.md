@@ -1,6 +1,14 @@
-<h2 align='center'> <i>Hello, World</h2>   
+<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>
+ <h1><b>'\0', It's </b><a href="https://github.com/hexed-AAL1X">Tarokh (Jacob)</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
- $ Hello There 👾, This is **Tarokh / Jacob**, a self-taught C programmer with 3 years of experience in developing C applications for POS devices. I am eager to learn new things and also I am crazy about Embedded Systems, Linux programming, Bare-Metal programming and so on!
+<!-- About me -->
+<!-- &nbsp;***About me*** --> 
+
+$ Hello There 👾, This is **Tarokh/Jacob**, a self-taught C programmer with 3 years of experience in developing C applications for POS devices. I am eager to learn new things and also I am crazy about Embedded Systems, Linux programming, Bare-Metal programming and so on!
 <br />
 <br />
 <p align="center">
